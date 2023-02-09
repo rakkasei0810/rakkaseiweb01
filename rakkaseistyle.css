@@ -5,6 +5,13 @@
   padding: 0;
 }
 
+.style {
+  height: 737px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
 body {
   background: url(./qianqu.jpg) no-repeat;
   background-size: cover;
